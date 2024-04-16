@@ -1,8 +1,8 @@
-# 【Cloudflare Pages】30分で作る！　REST APIを使って、Next.jsでTODOアプリを無料で公開
+# 【Cloudflare Pages】無料で公開！　REST APIを使って、Next.jsでTODOアプリを30分で作る
 
 ## YouTube
 
-[!["【Cloudflare Pages】30分で作る！ REST APIを使って、Next.jsでTODOアプリを無料で公開"](https://i.ytimg.com/vi/dAfk-eGIqAA/maxresdefault.jpg)](https://youtu.be/dAfk-eGIqAA)
+[!["【Cloudflare Pages】無料で公開！　REST APIを使って、Next.jsでTODOアプリを30分で作る"](https://i.ytimg.com/vi/dAfk-eGIqAA/maxresdefault.jpg)](https://youtu.be/dAfk-eGIqAA)
 
 ## 技術選定
 
